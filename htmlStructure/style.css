@@ -1,0 +1,49 @@
+nav{
+    display: inline-flex;
+    justify-content: space-between;
+    width: 90%;
+    border: solid 5px green;
+    padding: 10px;
+    margin: 10px;
+}
+main{
+    color:red;
+    border: solid 4px red;
+}
+.content{
+    width: 400px;
+    border: solid 4px black;
+    margin: auto;
+}
+.content img{
+    width: 350px;
+    height: auto;
+}
+section{
+    color: blue;
+    border: solid 4px blue;
+
+}
+form{
+    color: aqua;
+    border: solid 4px aqua;
+    width: 50%;
+}
+.form-section{
+    display: flex;
+}
+.form-section img{
+    height: 250px;
+    width: auto;
+    margin: auto;
+}
+footer{
+    border: solid 5px yellow;
+    width: 90%;
+    display: inline-flex;
+}
+footer button{
+    margin-left: 25px;
+}
+
+
